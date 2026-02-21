@@ -1,7 +1,7 @@
 // Feedback Widget - Screenshot + GitHub Issues
 
-const GITHUB_REPO = "username/shopsaathi-feedback";
-const GITHUB_TOKEN = "your_token_here"; // Replace with actual token
+const GITHUB_REPO = "social-engineer-ai/shopsaathi-feedback";
+const GITHUB_TOKEN = "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";
 
 function openFeedback() {
   const screenName = AppState.currentScreen || 'unknown';
